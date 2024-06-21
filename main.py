@@ -1,5 +1,4 @@
 # 🔥 🌲 ☁️ ⚡ 🌊 🚁 💛 🟩 🏥 🏦 🧯 🏆 ☁ ❄
-
 from pynput import keyboard
 from clouds import Clouds
 from map import Map
@@ -7,8 +6,6 @@ import time
 import os
 import json
 from helicopter import Helicopter as Helico
-
-
 
 TICK_SLEEP = 0.05
 TREE_UP = 50
